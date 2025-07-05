@@ -1,0 +1,9 @@
+win32com
+pandas==2.3.0
+regex==2024.11.6
+datetime==5.5
+langgraph==0.5.1
+langchain_core==0.3.68
+langchain_community==0.3.27
+openai==1.93.0
+
